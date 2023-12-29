@@ -1,0 +1,14 @@
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.deps.json
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.runtimeconfig.json
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.dll
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/bin/Debug/net8.0/DesignPatterns.pdb
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfoInputs.cache
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.AssemblyInfo.cs
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.csproj.CoreCompileInputs.cache
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.dll
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/refint/DesignPatterns.dll
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.pdb
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/DesignPatterns.genruntimeconfig.cache
+/Users/arturniklewicz/dNET/DesignPatterns/DesignPatterns/obj/Debug/net8.0/ref/DesignPatterns.dll
